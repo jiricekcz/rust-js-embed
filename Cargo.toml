@@ -1,0 +1,8 @@
+[package]
+name = "rust-js-embed"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+deno_core = "0.340.0"
+tokio = { version = "1.44.1", features = ["full"] }
