@@ -1014,6 +1014,7 @@ name = "rust-js-embed"
 version = "0.1.0"
 dependencies = [
  "deno_core",
+ "serde",
  "tokio",
 ]
 
